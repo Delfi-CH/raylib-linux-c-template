@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - -I../include
+    - -I../thirdparty/raylib-6.2_linux_amd64/include

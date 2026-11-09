@@ -1,0 +1,4 @@
+thirdparty
+*.o
+*.exe
+build/linux/game
